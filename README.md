@@ -7,7 +7,7 @@
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Jose-cyber" height="150" width="60" src="https://i.ibb.co/Fqd2zz1/223333520-1961753367316920-18614624298789026-n.jpg">
+  <img align="right" alt="Jose-cyber" height="150" width="100" src="https://i.ibb.co/Fqd2zz1/223333520-1961753367316920-18614624298789026-n.jpg">
 </div>
   
   ##

@@ -1,12 +1,17 @@
 ## Oiii! Eu sou o José-cyber
  <div>
   <a href="https://github.com/Jose-cyber">
-   <p>teste</p>
+  </a>
+  <p>Olá, eu sou o josé, atualmente trabalho como analista de suporte e sou apaixonado por tecnologia, tenho como objetivo um dia me tornar um sysadmin.</p><br>
+  Sou idealizador do site/blog <a href="https://juninhotecnologia.com.br/">juninho tecnologia</a> onde posto artigos relacionados a tecnologia e sobre o que eu estou estudando. 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">

@@ -20,7 +20,7 @@
 
   <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
-  <img align="right" alt="Jose-cyber" height="120" width="80" src="https://i.ibb.co/Fqd2zz1/223333520-1961753367316920-18614624298789026-n.jpg">
+  <img align="right" alt="Jose-cyber" height="120" width="100" src="https://i.ibb.co/Fqd2zz1/223333520-1961753367316920-18614624298789026-n.jpg">
 </div>
   
   ##

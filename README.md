@@ -1,8 +1,11 @@
-## Oiii! Eu sou o José-cyber
+## Olá! Eu sou o José-cyber
 <div>
   <a href="https://github.com/Jose-cyber"></a>
-      <p>Olá, eu sou o josé, atualmente trabalho como analista de suporte e sou apaixonado por tecnologia, tenho como objetivo um dia me tornar um sysadmin.<br>
-      Sou idealizador do site/blog <a href="https://juninhotecnologia.com.br/">juninho tecnologia</a> onde posto artigos relacionados a tecnologia e sobre o que eu estou estudando.</p>
+      - 📍 São José dos Campos - SP<br>
+      - 📚 Rede de computadores.<br>
+      - 🔭 Focado em me tornar um sysadmin devops.<br>
+      - 🌐 Site/blog <a href="https://juninhotecnologia.com.br/">juninho tecnologia</a><br>
+      - 🤹 Proficiência em: linux, containers, servidores e web servers.<br>
       <br>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

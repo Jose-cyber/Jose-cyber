@@ -3,7 +3,7 @@
   <a href="https://github.com/Jose-cyber"></a>
       - 📍 São José dos Campos - SP<br>
       - 📚 Rede de computadores.<br>
-      - 🔭 Focado em me tornar um sysadmin devops.<br>
+      - 🔭 DevOps.<br>
       - 🌐 Site/blog <a href="https://juninhotecnologia.com.br/">juninho tecnologia</a><br>
       - 🤹 Proficiência em: linux, containers, servidores e web servers.<br>
       <br>

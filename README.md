@@ -3,8 +3,8 @@
   <a href="https://github.com/Jose-cyber"></a>
       - 📍 São José dos Campos - SP<br>
       - 📚 Rede de computadores.<br>
-      - 🔭 DevOps.<br>
-      - 🌐 Site/blog <a href="https://juninhotecnologia.com.br/">juninho tecnologia</a><br>
+      - 🔭 DevOps, DevSecOps and SRE.<br>
+      - 🌐 Site/blog <a href="https://metavops.com.br/">metavops</a><br>
       - 🤹 Proficiência em: linux, containers, servidores e web servers.<br>
       <br>
   

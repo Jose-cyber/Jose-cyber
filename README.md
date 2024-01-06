@@ -16,6 +16,8 @@
 
 ##
 
+### Habilidades:
+
 <div style="display: inline_block">
   <br>
       <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,18 +28,31 @@
       <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
       <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
       <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+      <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 </div>
 
 ##
- 
-<div>
+
+### Certificações:
+
+<div id="Certifications" >
+  <img align="center" alt="Jose-cyber" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="Jose-cyber" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img align="center" alt="Jose-cyber" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blac">
+</div>
+
+##
+
+### Contatos:
+
+<div id="contacts">
 
   <a href = "mailto:josedasilvacostacosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-junior-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
 
-<div>
+<div id="snake-animation">
 
  ![Snake animation](https://github.com/Jose-cyber/Jose-cyber/blob/output/github-contribution-grid-snake.svg)
 

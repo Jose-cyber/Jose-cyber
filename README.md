@@ -29,6 +29,7 @@
       <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
       <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
       <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+      <img align="center" alt="Jose-cyber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
 </div>
 
 ##

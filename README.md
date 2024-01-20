@@ -5,7 +5,7 @@
       - 📍 São José dos Campos - SP<br>
       - 📚 Rede de computadores.<br>
       - 🔭 DevOps, DevSecOps and SRE.<br>
-      - 🌐 Site/blog <a href="https://metavops.com.br/">metavops</a><br>
+      - 🌐 Site/blog <a href="https://jose-cyber.github.io/metavops/src/index.html">metavops</a><br>
       - 🤹 Proficiência em: linux, containers, servidores e web servers.<br>
     <br>
 
